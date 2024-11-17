@@ -41,22 +41,40 @@
 // const number //cannot be reasigned
 // take 3 variables for your name age course and display in alert , console, innerHTML
 
-var h1=document.getElementById("demo");
+// var h1=document.getElementById("demo");
 
-var myname="Priya Verma";
+// var myname="Priya Verma";
+// var age=25;
+// var course="FSD";
+// console.log(myname+ " "+age+" "+course);
+
+// h1.innerHTML=myname+ " "+age+" "+course;
+
+// alert(myname);
+
+//declear 5 variables for name, age, city, course and country and display in colsole==done
+//declear 2 string variables and concat than into one variable and display in alert
+//declear 3 variable for firstname, lastname, hobby  and disply  in innerHTML in one line
+//take user name and age from user and display it in alert , console and innerHTML
+//1-- hw
+var name="Priya verma";
 var age=25;
-var course="FSD";
-console.log(myname+ " "+age+" "+course);
-
-h1.innerHTML=myname+ " "+age+" "+course;
-
-alert(myname);
-
-//declear 5 variables for name, age, city, course and country
-//declear 2 string variables and concat than into one variable
-//declear 3 variable for firstname, lastname, hobby  and disply
-//it in innerHTML in one line
-//take user name and age from user and display
-
-
+var city="Bhopal";
+var course ="FSP";
+var country="India";
+console.log(name+" "+age+" "+city+" "+course+" "+country);
+//2-- hw
+var h1=document.getElementById("demo");
+var firstname="Priya";
+var lastname="Verma";
+var hobby="playing badminton";
+h1.innerHTML=firstname+" "+lastname+" "+hobby;
+//3-- hw
+alert(firstname+" "+lastname);
+//4-- hw
+var username=prompt("Enter your username");
+var userage=prompt("Enter your age");
+alert(username+" "+userage);
+console.log(username+userage);
+// h1.innerHTML=username+" "+userage;
 
