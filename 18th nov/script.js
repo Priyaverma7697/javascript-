@@ -1,5 +1,5 @@
 
-//object literal
+// object literal
 
 const person = {
     name : "John",
@@ -55,6 +55,28 @@ const divide=(a,b)=>{
 return a/b;
 }
 console.log(divide(100,20));
+
+// -------------------------------------------------------------------------------------------
+// question=1. write a function that takes 3 parameters and perform arithmetic operations on that.
+
+function sum(num1, num2, num3){
+return num1+num2+num3;
+}
+sum(10,20,30);
+console.log(sum(10,20,30));
+
+// 2 . take 2 variables of your name and age and display it using the function in innerhtml and console
+
+function nameage(name, age){
+console.log (name+ " "+ age);
+document.getElementById("demo").innerHTML=name+" "+age;
+}
+nameage("Priya Verma", 25);
+
+
+
+
+
 
 
 
