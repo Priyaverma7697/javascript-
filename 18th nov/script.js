@@ -73,7 +73,10 @@ document.getElementById("demo").innerHTML=name+" "+age;
 }
 nameage("Priya Verma", 25);
 
-
+const addition =(a,b)=>{
+    return a+b;
+}
+console.log(addition(10,20));
 
 
 
