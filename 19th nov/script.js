@@ -21,7 +21,6 @@ function change(){
     h1.style.fontSize="25px";
     h1.style.background="white";
     h1.style.padding="20px";
-
 }
 // ------------------------------------------------------------------
 
