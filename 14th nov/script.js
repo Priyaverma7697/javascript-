@@ -31,7 +31,6 @@
 // h1.style.fontSize="50px";
 // h1.style.height="80px";
 
-
 // var btn=document.getElementById("btn");
 // btn.style.width="150px";
 // btn.style.height="50px";
@@ -69,7 +68,6 @@ p.style.fontFamily="'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Luci
 // p.style.backgroundColor="linear-gradient(to right, red , blue)";
 p.style.textShadow = "5px 5px 1px gray";
 p.style.boxShadow="10px 20px 30px gray";
-
 
 var btn=document.getElementById("btn");
 btn.style.width="150px";
