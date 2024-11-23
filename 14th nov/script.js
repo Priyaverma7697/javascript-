@@ -1,29 +1,29 @@
 //variable
-// var firstname ="john";
-// {
-//     let lastname="doe";
-//     const age= 35;
-//     console.log (lastname, age)
+var firstname ="john";
+{
+    let lastname="doe";
+    const age= 35;
+    console.log (lastname, age)
 
-// }
+}
 
-// let num1= 6565654545n;
-// console.log(typeof num1);
+let num1= 6565654545n;
+console.log(typeof num1);
 
-//  console.log("hello");
-//  document.write("hello javascript");
-//  alert("welcome");
+ console.log("hello");
+ document.write("hello javascript");
+ alert("welcome");
 
-// document.getElementById("demo").innerHTML = "Hello world";
-// document.getElementById("demo").innerHTML="welcome to javascript";
+document.getElementById("demo").innerHTML = "Hello world";
+document.getElementById("demo").innerHTML="welcome to javascript";
 
 // changing the inner html -->
-// var h1=document.getElementById("demo");
-// h1.innerHTML="Welcome to JavaScript";
+var h1=document.getElementById("demo");
+h1.innerHTML="Welcome to JavaScript";
 
-// // changing the css of element --> 
-// h1.style.color= "red";
-// h1.style.backgroundColor= "aqua";
+// changing the css of element --> 
+h1.style.color= "red";
+h1.style.backgroundColor= "aqua";
 
 //padding , border , fontsize, height, apply
 // h1.style.padding="5px";
@@ -40,7 +40,7 @@
 // btn.style.fontSize="20px";
 // btn.style.backgroundColor="gray";
 // btn.style.boxShadow="10px 20px 30px gray";
-
+// ------------------------------------------------------------------
 var h1=document.getElementById("demo");
 h1.innerHTML="Welcome to JavaScript"; 
 h1.style.color= "red";

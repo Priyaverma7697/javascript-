@@ -5,8 +5,7 @@ var name = "John Doe";
 document.write(name);
 console.log (name);
 console.log (typeof name);
-var name = 'Priya';
-
+var name = 'Rose';
 var age = 30;
 document.write(age);
 console.log (typeof (age));

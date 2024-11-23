@@ -18,7 +18,7 @@ const numbers=[10,20,30,89];
 console.log(numbers[0]);
 console.log(numbers[1]);
 console.log(numbers[2]);
-
+console.log(numbers[3]);
 //Function is a way to group code together, you can run it anytime anyware;
 // function declaration 
 function sayHello(){
@@ -73,10 +73,10 @@ document.getElementById("demo").innerHTML=name+" "+age;
 }
 nameage("Priya Verma", 25);
 
-const addition =(a,b)=>{
-    return a+b;
-}
-console.log(addition(10,20));
+// const addition =(a,b)=>{
+//     return a+b;
+// }
+// console.log(addition(10,20));
 
 
 

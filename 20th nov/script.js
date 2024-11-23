@@ -58,7 +58,7 @@ function display2(){
     console.log(input3+" "+input4+" "+input5);
     h1.innerHTML=input3+" "+input4+" "+input5;
     alert(input3+" "+input4+" "+input5);
-
+    
 }
 
 

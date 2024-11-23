@@ -1,6 +1,7 @@
 function display() {
     console.log("Hello world")
 }
+display();
 // -----------------------------------------------------
 var h1=document.getElementById("demo")
 function show(){

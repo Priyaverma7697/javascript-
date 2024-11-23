@@ -1,29 +1,28 @@
-// var h1=document.getElementById("demo");
-// h1.innerHTML="Do you work everyday";
-// var name= "John Doe";
-// var age= 34;
-// console.log(name, age);
-// concatination 
-// console.log(name + " "+age);
-// h1.innerHTML=name+ " " + age;
+var h1=document.getElementById("demo");
+h1.innerHTML="Do you work everyday";
+var name= "John Doe";
+var age= 34;
+console.log(name, age);
+concatination 
+console.log(name + " "+age);
+h1.innerHTML=name+ " " + age;
 // --------------------------------------------------
 // to get value from user
-// var username=prompt("Enter your name");
-// var userage=prompt("Enter your age");
-// h1.innerHTML=username+ " " +userage;
+var username=prompt("Enter your name");
+var userage=prompt("Enter your age");
+h1.innerHTML=username+ " " +userage;
 
-// //get color name and background color
-// //from user and apply on heading
+//get color name and background color
+//from user and apply on heading
 
-// var txtcolor=prompt("Enter color");
-// var bgcolor=prompt("Enter background color");
+var txtcolor=prompt("Enter color");
+var bgcolor=prompt("Enter background color");
 
-// h1.style.color=txtcolor;
-// h1.style.backgroundColor=bgcolor;
+h1.style.color=txtcolor;
+h1.style.backgroundColor=bgcolor;
 // // ------------------------------------------------------
 // //change attribute
-// var myimage =document.getElementById("myimage");
-// myimage.src="images.jpeg"
+// 
 
 
 
